@@ -1,3 +1,13 @@
+-This project is implemented by Using:
+1. Atmega16
+2. LCD 
+3. LM35 Sensor
+
+-The used drivers:
+1. GPIO
+2. ADC
+3. Timer in PWM mode
+
 1. The aim of this project is to design a temperature-controlled fan using ATmega16
 microcontroller, in which the fan is automatically turned ON or OFF according to the
 temperature. Use ATmega16 Microcontroller with frequency 1Mhz.
