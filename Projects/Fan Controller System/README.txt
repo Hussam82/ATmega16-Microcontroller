@@ -27,8 +27,10 @@ maximum speed.
 c. If the temperature is greater than or equal 60C turn on the fan with 50% of its
 maximum speed.
 d. If the temperature is greater than or equal 90C turn on the fan with 75% of its
-maximum speed.e. If the temperature is greater than or equal 120C turn on the fan with 100% of its
+maximum speed.
+e. If the temperature is greater than or equal 120C turn on the fan with 100% of its
 maximum speed.
 7. The main principle of the circuit is to switch on/off the fan connected to DC motor based
-on temperature value. The DC-Motor rotates in clock-wise direction or stopped based on
+on temperature value.
+The DC-Motor rotates in clock-wise direction or stopped based on
 the fan state.
