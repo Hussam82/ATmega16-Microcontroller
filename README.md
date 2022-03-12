@@ -1,4 +1,4 @@
-# AVR-Microcontroller
+# ATmega16-Microcontroller
 Implemnting many drivers and doing some AVR based projects
 ## This repository contains some implemented drivers as:
 #### 1- ADC
